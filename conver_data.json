@@ -1,0 +1,242 @@
+[
+    {
+        "user_input": "What are some must-read horror comics?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "horror"}
+    },
+    {
+        "user_input": "I'm in the mood for adventure comics. Any suggestions?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "adventure"}
+    },
+    {
+        "user_input": "Can you recommend some heartfelt romance comics?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "romance"}
+    },
+    {
+        "user_input": "I'd love to see some captivating melodrama comics. What do you suggest?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "melodrama"}
+    },
+    {
+        "user_input": "What are some intriguing fiction comics I should check out?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "fiction"}
+    },
+    {
+        "user_input": "Are there any great non-fiction comics you can recommend?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "non-fiction"}
+    },
+    {
+        "user_input": "I’m interested in fantasy comics. What do you recommend?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "fantasy"}
+    },
+    {
+        "user_input": "Suggest some exciting science fiction comics for me, please.",
+        "intent": "recommend_comic",
+        "entities": {"genre": "science fiction"}
+    },
+    {
+        "user_input": "What mystery comics would you recommend for a thrilling read?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "mystery"}
+    },
+    {
+        "user_input": "I’d like some recommendations for suspenseful thriller comics.",
+        "intent": "recommend_comic",
+        "entities": {"genre": "thriller"}
+    },
+    {
+        "user_input": "Can you point me to some great historical fiction comics?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "historical fiction"}
+    },
+    {
+        "user_input": "What poetry comics would you recommend for a relaxing read?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "poetry"}
+    },
+    {
+        "user_input": "I want to read some comics in Korean. Any recommendations?",
+        "intent": "recommend_comic",
+        "entities": {"language": "Korean"}
+    },
+    {
+        "user_input": "Can you suggest some manga in Japanese?",
+        "intent": "recommend_comic",
+        "entities": {"language": "Japanese"}
+    },
+    {
+        "user_input": "What about some comics in Chinese?",
+        "intent": "recommend_comic",
+        "entities": {"language": "Chinese"}
+    },
+    {
+        "user_input": "Give me some recommendations for comics in French.",
+        "intent": "recommend_comic",
+        "entities": {"language": "French"}
+    },
+    {
+        "user_input": "I’m looking for American graphic novels. Any suggestions?",
+        "intent": "recommend_comic",
+        "entities": {"language": "American"}
+    },
+    {
+        "user_input": "What are some good superhero comics in Korean?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "superhero", "language": "Korean"}
+    },
+    {
+        "user_input": "Suggest some romantic manga in Japanese.",
+        "intent": "recommend_comic",
+        "entities": {"genre": "romance", "language": "Japanese"}
+    },
+    {
+        "user_input": "What are some classic comics from France?",
+        "intent": "recommend_comic",
+        "entities": {"genre": "classic", "language": "French"}
+    },
+    {
+        "user_input": "What are some great summer comics to read?",
+        "intent": "recommend_comic",
+        "entities": {"season": "summer"}
+    },
+    {
+        "user_input": "Can you suggest some winter comics?",
+        "intent": "recommend_comic",
+        "entities": {"season": "winter"}
+    },
+    {
+        "user_input": "What fall comics do you recommend?",
+        "intent": "recommend_comic",
+        "entities": {"season": "fall"}
+    },
+    {
+        "user_input": "What are some enjoyable spring comics?",
+        "intent": "recommend_comic",
+        "entities": {"season": "spring"}
+    },
+    {
+        "user_input": "What movie do you suggest for a romantic evening?",
+        "intent": "recommend_movie",
+        "entities": {"genre": "romance"}
+    },
+    {
+        "user_input": "Give me a thriller movie recommendation.",
+        "intent": "recommend_movie",
+        "entities": {"genre": "thriller"}
+    },
+    {
+        "user_input": "Any good horror movies to watch?",
+        "intent": "recommend_movie",
+        "entities": {"genre": "horror"}
+    },
+    {
+        "user_input": "Can you recommend a Korean movie?",
+        "intent": "recommend_movie",
+        "entities": {"language": "Korean"}
+    },
+    {
+        "user_input": "What are some classic American films?",
+        "intent": "recommend_movie",
+        "entities": {"language": "American"}
+    },
+    {
+        "user_input": "What are some great summer movies to watch?",
+        "intent": "recommend_movie",
+        "entities": {"season": "summer"}
+    },
+    {
+        "user_input": "Can you suggest some winter movies?",
+        "intent": "recommend_movie",
+        "entities": {"season": "winter"}
+    },
+    {
+        "user_input": "What fall movies do you recommend?",
+        "intent": "recommend_movie",
+        "entities": {"season": "fall"}
+    },
+    {
+        "user_input": "What are some enjoyable spring movies?",
+        "intent": "recommend_movie",
+        "entities": {"season": "spring"}
+    },
+    {
+        "user_input": "What are some great adventure movies?",
+        "intent": "recommend_movie",
+        "entities": {"genre": "adventure"}
+    },
+    {
+        "user_input": "Can you suggest a sci-fi movie for me?",
+        "intent": "recommend_movie",
+        "entities": {"genre": "science fiction"}
+    },
+    {
+        "user_input": "What are some good romantic comedies?",
+        "intent": "recommend_movie",
+        "entities": {"genre": "romantic comedy"}
+    },
+    {
+        "user_input": "Do you have any recommendations for mystery movies?",
+        "intent": "recommend_movie",
+        "entities": {"genre": "mystery"}
+    },
+    {
+        "user_input": "Can you recommend some fantasy movies?",
+        "intent": "recommend_movie",
+        "entities": {"genre": "fantasy"}
+    },
+    {
+        "user_input": "What are some classic animated films?",
+        "intent": "recommend_movie",
+        "entities": {"genre": "animated"}
+    },
+    {
+        "user_input": "Can you recommend a documentary film?",
+        "intent": "recommend_movie",
+        "entities": {"genre": "documentary"}
+    },
+    {
+        "user_input": "Hello!",
+        "intent": "greetings",
+        "entities": {}
+    },
+    {
+        "user_input": "Hi there!",
+        "intent": "greetings",
+        "entities": {}
+    },
+    {
+        "user_input": "Good morning!",
+        "intent": "greetings",
+        "entities": {}
+    },
+    {
+        "user_input": "Hey, how are you?",
+        "intent": "greetings",
+        "entities": {}
+    },
+    {
+        "user_input": "What's up?",
+        "intent": "greetings",
+        "entities": {}
+    },
+    {
+        "user_input": "Greetings!",
+        "intent": "greetings",
+        "entities": {}
+    },
+    {
+        "user_input": "How's it going?",
+        "intent": "greetings",
+        "entities": {}
+    },
+    {
+        "user_input": "Nice to see you!",
+        "intent": "greetings",
+        "entities": {}
+    }
+]

@@ -1,0 +1,1 @@
+# Fajardo_241012__TechnicalAssessment1
